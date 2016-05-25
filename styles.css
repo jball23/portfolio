@@ -108,6 +108,10 @@ footer {
   padding-left: 1em;
 }
 
+#main-wrapper a {
+  text-decoration: none;
+}
+
 .profile {
   height: 25%;
   padding: 3em;
@@ -117,10 +121,6 @@ footer {
 
 .profile p {
   font-size: 2em;
-}
-
-#main-wrapper a {
-  text-decoration: none;
 }
 
 .skills {
